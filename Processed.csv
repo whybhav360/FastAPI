@@ -1,0 +1,532 @@
+country,year,apricot
+Australia,1961,40691.0
+Australia,1962,40691.0
+Australia,1963,41661.0
+Australia,1964,35044.0
+Australia,1965,42853.0
+Australia,1966,38706.0
+Australia,1967,52370.0
+Australia,1968,33062.0
+Australia,1969,43634.0
+Australia,1970,39509.0
+Australia,1971,52802.0
+Australia,1972,46709.0
+Australia,1973,43947.0
+Australia,1974,37709.0
+Australia,1975,28069.0
+Australia,1976,26202.0
+Australia,1977,26741.0
+Australia,1978,24834.0
+Australia,1979,31049.0
+Australia,1980,26353.0
+Australia,1981,30621.0
+Australia,1982,27067.0
+Australia,1983,26850.0
+Australia,1984,23600.0
+Australia,1985,24485.0
+Australia,1986,28000.0
+Australia,1987,26519.0
+Australia,1988,28355.0
+Australia,1989,27945.0
+Australia,1990,29685.0
+Australia,1991,25231.0
+Australia,1992,31752.0
+Australia,1993,29463.0
+Australia,1994,21200.0
+Australia,1995,29753.0
+Australia,1996,21640.0
+Australia,1997,25920.0
+Australia,1998,19881.0
+Australia,1999,21483.0
+Australia,2000,19875.0
+Australia,2001,20639.0
+Australia,2002,12355.0
+Australia,2003,19742.0
+Australia,2004,10658.0
+Australia,2005,19698.0
+Australia,2006,16920.0
+Australia,2007,17327.0
+Australia,2008,17000.0
+Australia,2009,13673.0
+Australia,2010,13174.77
+Australia,2011,13283.0
+Australia,2012,12186.08
+Australia,2013,11550.88
+Australia,2014,9237.04
+Australia,2015,9696.54
+Australia,2016,8700.0
+Australia,2017,5351.0
+Australia,2018,8801.0
+Australia,2019,8377.0
+Australia,2020,6227.76
+Australia,2021,5458.17
+Australia,2022,4803.53
+Australia,2023,2495.0
+Canada,1961,6010.0
+Canada,1962,7031.0
+Canada,1963,2253.0
+Canada,1964,8777.0
+Canada,1965,453.0
+Canada,1966,6328.0
+Canada,1967,2988.0
+Canada,1968,3279.0
+Canada,1969,37.0
+Canada,1970,3445.0
+Canada,1971,3007.0
+Canada,1972,2852.0
+Canada,1973,3357.0
+Canada,1974,2885.0
+Canada,1975,3790.0
+Canada,1976,2800.0
+Canada,1977,2636.0
+Canada,1978,2527.0
+Canada,1979,2874.0
+Canada,1980,3517.0
+Canada,1981,1960.0
+Canada,1982,2764.0
+Canada,1983,2170.0
+Canada,1984,2323.0
+Canada,1985,2274.0
+Canada,1986,2340.0
+Canada,1987,2849.0
+Canada,1988,2477.0
+Canada,1989,269.0
+Canada,1990,1956.0
+Canada,1991,619.0
+Canada,1992,1093.0
+Canada,1993,974.0
+Canada,1994,1475.0
+Canada,1995,1755.0
+Canada,1996,1118.0
+Canada,1997,1352.0
+Canada,1998,875.0
+Canada,1999,776.0
+Canada,2000,1036.0
+Canada,2001,1370.0
+Canada,2002,982.0
+Canada,2003,1220.0
+Canada,2004,1250.0
+Canada,2005,1617.0
+Canada,2006,826.0
+Canada,2007,889.0
+Canada,2008,1084.0
+Canada,2009,913.0
+Canada,2010,619.0
+Canada,2011,522.0
+Canada,2012,708.0
+Canada,2013,660.0
+Canada,2014,958.0
+Canada,2015,1199.0
+Canada,2016,1173.0
+Canada,2017,1038.0
+Canada,2018,1067.0
+Canada,2019,917.0
+Canada,2020,747.0
+Canada,2021,801.0
+Canada,2022,729.0
+Canada,2023,696.0
+China,1992,5000.0
+China,1993,5000.0
+China,1994,8000.0
+China,1995,10000.0
+China,1996,15000.0
+China,1997,15000.0
+China,1998,16500.0
+China,1999,20000.0
+China,2000,25000.0
+China,2001,28000.0
+China,2002,27000.0
+China,2003,28000.0
+China,2004,39500.0
+China,2005,45000.0
+China,2006,35000.0
+China,2007,38000.0
+China,2008,42000.0
+China,2009,43000.0
+China,2010,44576.27
+China,2011,47860.5
+China,2012,49155.84
+China,2013,50931.73
+China,2014,52596.9
+China,2015,54157.65
+China,2016,52562.1
+China,2017,52660.86
+China,2018,54157.53
+China,2019,53126.83
+China,2020,53315.07
+China,2021,53533.14
+China,2022,53325.02
+China,2023,53391.08
+France,1961,93910.0
+France,1962,53220.0
+France,1963,161280.0
+France,1964,34340.0
+France,1965,109680.0
+France,1966,42967.0
+France,1967,94215.0
+France,1968,130200.0
+France,1969,56012.0
+France,1970,96180.0
+France,1971,92180.0
+France,1972,90980.0
+France,1973,152020.0
+France,1974,56240.0
+France,1975,55570.0
+France,1976,130202.0
+France,1977,66873.0
+France,1978,77000.0
+France,1979,52000.0
+France,1980,79000.0
+France,1981,82000.0
+France,1982,73600.0
+France,1983,105200.0
+France,1984,83300.0
+France,1985,102500.0
+France,1986,113500.0
+France,1987,96800.0
+France,1988,96200.0
+France,1989,122500.0
+France,1990,110432.0
+France,1991,106596.0
+France,1992,167582.8
+France,1993,78561.9
+France,1994,155071.5
+France,1995,101239.0
+France,1996,176239.4
+France,1997,159338.2
+France,1998,78828.5
+France,1999,182731.9
+France,2000,130786.9
+France,2001,95910.2
+France,2002,165695.3
+France,2003,116600.3
+France,2004,165055.5
+France,2005,177136.3
+France,2006,179812.0
+France,2007,126409.0
+France,2008,94516.2
+France,2009,190382.4
+France,2010,143211.7
+France,2011,148647.5
+France,2012,175227.6
+France,2013,127158.0
+France,2014,175760.0
+France,2015,159375.0
+France,2016,603268.2
+France,2017,654938.2
+France,2018,112890.0
+France,2019,134800.0
+France,2020,85260.0
+France,2021,54590.0
+France,2022,128080.0
+France,2023,127780.0
+Germany,1961,2900.0
+Germany,1962,2000.0
+Germany,1963,4198.0
+Germany,1964,3100.0
+Germany,1965,1751.0
+Germany,1966,1588.0
+Germany,1967,3593.0
+Germany,1968,6621.0
+Germany,1969,3800.0
+Germany,1970,5725.0
+Germany,1971,5600.0
+Germany,1972,2700.0
+Germany,1973,4500.0
+Germany,1974,6000.0
+Germany,1975,1231.0
+Germany,1976,1440.0
+Germany,1977,1782.0
+Germany,1978,2987.0
+Germany,1979,1244.0
+Germany,1980,2646.0
+Germany,1981,1298.0
+Germany,1982,2560.0
+Germany,1983,1503.0
+Germany,1984,2128.0
+Germany,1985,1753.0
+Germany,1986,2046.0
+Germany,1987,1809.0
+Germany,1988,1591.0
+Germany,1989,1700.0
+Germany,1990,1766.0
+Germany,1991,900.0
+Germany,1992,500.0
+Germany,1993,200.0
+Germany,1994,100.0
+Germany,1995,200.0
+Germany,1996,300.0
+Germany,1997,100.0
+Germany,1998,200.0
+Germany,1999,200.0
+Germany,2000,300.0
+Germany,2001,100.0
+Germany,2002,200.0
+Germany,2003,185.0
+Germany,2004,489.0
+Germany,2005,216.0
+Germany,2006,300.0
+Germany,2007,310.0
+Germany,2008,320.0
+Germany,2009,350.0
+Germany,2010,352.05
+Germany,2011,245.12
+Germany,2012,242.6
+Germany,2013,234.3
+Germany,2014,219.53
+Germany,2015,232.14
+Germany,2016,228.66
+Germany,2017,226.78
+India,1961,8000.0
+India,1962,8300.0
+India,1963,8500.0
+India,1964,8800.0
+India,1965,9200.0
+India,1966,9500.0
+India,1967,9800.0
+India,1968,10300.0
+India,1969,10500.0
+India,1970,10800.0
+India,1971,11000.0
+India,1972,10500.0
+India,1973,11000.0
+India,1974,11500.0
+India,1975,9500.0
+India,1976,10000.0
+India,1977,8000.0
+India,1978,8000.0
+India,1979,7000.0
+India,1980,6500.0
+India,1981,6000.0
+India,1982,5000.0
+India,1983,5500.0
+India,1984,5000.0
+India,1985,4800.0
+India,1986,4500.0
+India,1987,4800.0
+India,1988,4350.0
+India,1989,5000.0
+India,1990,6000.0
+India,1991,6200.0
+India,1992,6500.0
+India,1993,6800.0
+India,1994,7000.0
+India,1995,7300.0
+India,1996,7900.0
+India,1997,8100.0
+India,1998,8400.0
+India,1999,9400.0
+India,2000,9900.0
+India,2001,10000.0
+India,2002,10216.5
+India,2003,10530.11
+India,2004,10908.12
+India,2005,11331.71
+India,2006,11847.26
+India,2007,12316.64
+India,2008,12888.7
+India,2009,13291.56
+India,2010,13644.71
+India,2011,13929.03
+India,2012,14149.27
+India,2013,14155.16
+India,2014,14115.7
+India,2015,14186.43
+India,2016,14318.0
+India,2017,14458.08
+India,2018,14599.39
+India,2019,14740.81
+India,2020,14839.37
+India,2021,14937.51
+India,2022,15046.34
+India,2023,15155.18
+Pakistan,1961,5100.0
+Pakistan,1962,5900.0
+Pakistan,1963,9700.0
+Pakistan,1964,11000.0
+Pakistan,1965,9100.0
+Pakistan,1966,11600.0
+Pakistan,1967,12200.0
+Pakistan,1968,13500.0
+Pakistan,1969,17900.0
+Pakistan,1970,19100.0
+Pakistan,1971,19910.0
+Pakistan,1972,9960.0
+Pakistan,1973,22560.0
+Pakistan,1974,24600.0
+Pakistan,1975,25674.0
+Pakistan,1976,27645.0
+Pakistan,1977,30299.0
+Pakistan,1978,31303.0
+Pakistan,1979,34100.0
+Pakistan,1980,35768.0
+Pakistan,1981,37122.0
+Pakistan,1982,43692.0
+Pakistan,1983,46536.0
+Pakistan,1984,52200.0
+Pakistan,1985,53800.0
+Pakistan,1986,61500.0
+Pakistan,1987,65800.0
+Pakistan,1988,71700.0
+Pakistan,1989,76200.0
+Pakistan,1990,81000.0
+Pakistan,1991,108847.0
+Pakistan,1992,122097.0
+Pakistan,1993,152615.0
+Pakistan,1994,178124.0
+Pakistan,1995,190634.0
+Pakistan,1996,188063.0
+Pakistan,1997,188967.0
+Pakistan,1998,190852.0
+Pakistan,1999,120500.0
+Pakistan,2000,125889.0
+Pakistan,2001,124675.0
+Pakistan,2002,129700.0
+Pakistan,2003,210882.0
+Pakistan,2004,214800.0
+Pakistan,2005,197239.0
+Pakistan,2006,177266.0
+Pakistan,2007,240192.0
+Pakistan,2008,237937.0
+Pakistan,2009,193936.0
+Pakistan,2010,190174.0
+Pakistan,2011,189420.0
+Pakistan,2012,178489.0
+Pakistan,2013,177630.0
+Pakistan,2014,170504.0
+Pakistan,2015,172933.0
+Pakistan,2016,165918.0
+Pakistan,2017,141721.0
+Pakistan,2018,107986.0
+Pakistan,2019,94410.0
+Pakistan,2020,124173.0
+Pakistan,2021,159022.0
+Pakistan,2022,204029.0
+Pakistan,2023,135062.36
+Russia,1992,55500.0
+Russia,1993,55200.0
+Russia,1994,41900.0
+Russia,1995,40000.0
+Russia,1996,70000.0
+Russia,1997,57000.0
+Russia,1998,38000.0
+Russia,1999,50000.0
+Russia,2000,67000.0
+Russia,2001,50000.0
+Russia,2002,60740.0
+Russia,2003,75230.0
+Russia,2004,80100.0
+Russia,2005,72000.0
+Russia,2006,39000.0
+Russia,2007,78000.0
+Russia,2008,57500.0
+Russia,2009,60000.0
+Russia,2010,51000.0
+Russia,2011,60000.0
+Russia,2012,57000.0
+Russia,2013,62000.0
+Russia,2014,62000.0
+Russia,2015,60000.0
+Russia,2016,60700.0
+Russia,2017,53300.0
+Russia,2018,66300.0
+Russia,2019,69600.0
+Russia,2020,72800.0
+Russia,2021,79000.0
+Russia,2022,84900.0
+Russia,2023,74503.12
+Ukraine,1992,80748.0
+Ukraine,1993,107000.0
+Ukraine,1994,12000.0
+Ukraine,1995,97300.0
+Ukraine,1996,123700.0
+Ukraine,1997,101400.0
+Ukraine,1998,59600.0
+Ukraine,1999,57200.0
+Ukraine,2000,102100.0
+Ukraine,2001,43711.0
+Ukraine,2002,68500.0
+Ukraine,2003,110500.0
+Ukraine,2004,99300.0
+Ukraine,2005,94200.0
+Ukraine,2006,28000.0
+Ukraine,2007,55600.0
+Ukraine,2008,88900.0
+Ukraine,2009,74300.0
+Ukraine,2010,77200.0
+Ukraine,2011,119900.0
+Ukraine,2012,62900.0
+Ukraine,2013,134970.0
+Ukraine,2014,64520.0
+Ukraine,2015,64900.0
+Ukraine,2016,81290.0
+Ukraine,2017,86680.0
+Ukraine,2018,111670.0
+Ukraine,2019,83660.0
+Ukraine,2020,69480.0
+Ukraine,2021,56840.0
+Ukraine,2022,49710.0
+Ukraine,2023,40770.0
+United States,1961,172183.0
+United States,1962,150319.0
+United States,1963,180075.0
+United States,1964,199670.0
+United States,1965,205023.0
+United States,1966,175539.0
+United States,1967,133832.0
+United States,1968,135424.0
+United States,1969,207381.0
+United States,1970,158757.0
+United States,1971,169144.0
+United States,1972,115760.0
+United States,1973,143244.0
+United States,1974,84867.0
+United States,1975,165651.0
+United States,1976,140250.0
+United States,1977,133718.0
+United States,1978,114490.0
+United States,1979,130820.0
+United States,1980,117030.0
+United States,1981,81100.0
+United States,1982,107230.0
+United States,1983,84370.0
+United States,1984,115390.0
+United States,1985,118840.0
+United States,1986,49600.0
+United States,1987,103800.0
+United States,1988,92500.0
+United States,1989,109000.0
+United States,1990,111085.0
+United States,1991,86908.0
+United States,1992,96524.0
+United States,1993,88314.0
+United States,1994,138980.0
+United States,1995,54884.0
+United States,1996,71939.0
+United States,1997,126307.0
+United States,1998,107492.0
+United States,1999,82100.0
+United States,2000,87906.0
+United States,2001,74806.0
+United States,2002,81682.0
+United States,2003,88523.0
+United States,2004,91743.0
+United States,2005,74071.0
+United States,2006,40351.0
+United States,2007,80249.0
+United States,2008,74035.0
+United States,2009,62341.0
+United States,2010,60219.0
+United States,2011,60464.0
+United States,2012,55157.0
+United States,2013,55370.0
+United States,2014,58901.0
+United States,2015,37790.0
+United States,2016,58110.0
+United States,2017,41410.0
+United States,2018,35880.0
+United States,2019,46540.0
+United States,2020,28320.0
+United States,2021,36250.0
+United States,2022,26360.0
+United States,2023,32500.0
